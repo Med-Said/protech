@@ -1,0 +1,401 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marig",
+				"margin-right\tproperty"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"sr",
+				"script\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 252.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/protech/form.html",
+		"/D/protech/facebookLogin2.html",
+		"/D/protech/facebookLogin.html",
+		"/C/Users/Med Said M'bareck/Desktop/stuff/CEH/wifi",
+		"/C/Users/Med Said M'bareck/Desktop/CEH/office tools/notes sur tps",
+		"/C/Users/Med Said M'bareck/Desktop/davinci resolve",
+		"/C/Users/Med Said M'bareck/Desktop/exercices",
+		"/C/Users/Med Said M'bareck/Desktop/CEH/office tools/TP_Scan/scanning networks.txt",
+		"/D/projects/test/archiveuna-master/model/database/archiveuna (1).sql",
+		"/D/projects/test/archiveuna-master/model/database/archiveuna (2).sql",
+		"/J/downloads/examen.sql",
+		"/H/Recovery.txt",
+		"/C/Users/Med Said M'bareck/Desktop/CEH/office tools/TP System hacking/Workshop 3 keylogger/keylogger.txt",
+		"/C/Users/Med Said M'bareck/Desktop/CEH/office tools/TP System hacking/Workshop 2 Backdoor/trojan.txt",
+		"/C/snwdos32/infile",
+		"/C/snwdos32/outfile.txt",
+		"/C/stegano2/file.txt",
+		"/C/Users/Med Said M'bareck/Desktop/CEH/office tools/TP System hacking/Workshop 1 steganography/stegano.txt",
+		"/C/Users/Med Said M'bareck/Desktop/CEH/office tools/TP Foot-printing and reconnaissance/TP Foot-printing and reconnaissance/Tools/hudge dorks list.txt",
+		"/C/Users/Med Said M'bareck/Desktop/CEH/office tools/TP Foot-printing and reconnaissance/TP Foot-printing and reconnaissance/Footprinting.txt",
+		"/C/Users/Med Said M'bareck/Desktop/CEH/office tools/TP_Scan/Create Custom Packet Using TCP Flags/Scanning_Tools/scanning networks.txt",
+		"/C/Users/Med Said M'bareck/Desktop/CEH/office tools/Footprint_Recon_Tools/Data Scraper.txt",
+		"/C/Users/Med Said M'bareck/Desktop/CEH/office tools/Footprint_Recon_Tools/hudge dorks list.txt",
+		"/D/projects/fsgSortants/src/fsgSortants/db/DBConnection.java",
+		"/C/Users/Med Said M'bareck/Desktop/CEH/office tools/VMW-12/VMW-12/VMware WS 12.x Serial.txt",
+		"/C/Users/Med Said M'bareck/Desktop/stuff/database.sql",
+		"/D/projects/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/work/Catalina/localhost/fsgSortants/org/apache/jsp/pages/contact_jsp.java",
+		"/C/Users/Med Said M'bareck/Desktop/static_file.sql",
+		"/C/Users/Med Said M'bareck/Desktop/SPJ.sql",
+		"/C/Users/Med Said M'bareck/Desktop/spj_hints.sql",
+		"/D/projects/fsgSortants/WebContent/WEB-INF/classes/fsgSortants/beans/Contact.class",
+		"/D/projects/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/work/Catalina/localhost/fsgSortants/org/apache/jsp/pages/home_jsp.class",
+		"/D/projects/fsgSortants/WebContent/pages/contact.jsp",
+		"/D/projects/fsgSortants/WebContent/pages/inscription.jsp",
+		"/D/projects/fsgSortants/WebContent/pages/home.jsp",
+		"/D/projects/fsgSortants/WebContent/pages/partials/header.jsp",
+		"/D/projects/fsgSortants/WebContent/index.jsp",
+		"/D/codes/java/mpssri1/tp & td/tp java/bin/tp2/AppletExemple2.class",
+		"/D/codes/java/mpssri1/tp & td/tp java/bin/tp2/AppletLabelButton.class",
+		"/D/codes/java/mpssri1/tp & td/exos.application/bin/tp2.Applet_LabelButton1543437344229.html",
+		"/D/codes/java/mpssri1/tp & td/tp java/src/tp2/runapplet.html",
+		"/D/codes/java/mpssri1/tp & td/tp java/bin/tp2/AppletLabelButton$2.class",
+		"/D/codes/java/mpssri1/tp & td/tp java/bin/tp2/AppletLabelButton$1.class",
+		"/C/Users/Med Said M'bareck/Desktop/run.html",
+		"/C/Users/Med Said M'bareck/Desktop/run2.html",
+		"/D/codes/java/mpssri1/tp & td/tp java/bin/tp2/runapplet.html",
+		"/D/projects/pfe/resources/views/layouts/partials/ajax.blade.php",
+		"/D/codes/JS/regExp.html",
+		"/C/Users/Med Said M'bareck/Desktop/connect_nox_to_androidstudio.sh",
+		"/C/Users/Med Said M'bareck/Desktop/acess.html",
+		"/C/xampp/htdocs/to.php",
+		"/C/xampp/htdocs/him.php",
+		"/D/projects/fsgSortants/src/fsgSortants/index.html",
+		"/E/my courses/mpssri1/jee/TdVarouk-master/TdVarouk-master/Test.java",
+		"/D/codes/java/mpssri1/tp & td/tp19/Main.java",
+		"/D/codes/java/mpssri1/tp & td/tp19/Personne.java",
+		"/D/codes/java/mpssri1/tp & td/tp19/Skieur.java",
+		"/C/Users/Med Said M'bareck/Desktop/thabtisana25@gmail.com",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/Users/Med Said M'bareck/Music/Microsoft Office 2007 FR/SERIAL.TXT",
+		"/D/projects/archiveuna/model/database/archiveuna.sql",
+		"/D/projects/archiveuna/model/database/archiveuna (1).sql",
+		"/D/projects/archiveuna/model/database/archiveuna (2).sql",
+		"/E/download/codes/pfe.sql",
+		"/E/download/codes/backup.txt",
+		"/C/Users/Med Said M'bareck/Desktop/planning",
+		"/C/Users/Med Said M'bareck/Desktop/lyrics",
+		"/D/codes/java/mpssri1/tp & td/exos.application/src/exoG2/TestMetiers.java",
+		"/D/codes/java/mpssri1/tp & td/exos.application/src/exoG2/Menuisier.java",
+		"/D/codes/java/mpssri1/tp & td/exos.application/src/exoG2/Plombier.java",
+		"/D/codes/java/mpssri1/tp & td/exos.application/src/exoG2/Personne.java",
+		"/D/codes/java/javafx/Tuto1/src/tuto1/Tuto1.java",
+		"/C/Users/Med Said M'bareck/Google Drive/1234",
+		"/C/Users/Med Said M'bareck/Google Drive/.wifi-password",
+		"/D/codes/java/mpssri1/tp & td/exos.application/src/gestionContacts/TestCarnet.java",
+		"/C/Users/Med Said M'bareck/Desktop/Morale.class",
+		"/D/codes/java/mpssri1/tp & td/exos.application/src/gestionContacts/Carnet.java",
+		"/C/Users/Med Said M'bareck/Desktop/poly ou tounis",
+		"/C/Users/Med Said M'bareck/AppData/Local/Temp/Rar$DIa9604.4332/Pays.java",
+		"/C/Users/Med Said M'bareck/Desktop/Salut, svp",
+		"/E/download/apps/IDM 6.19 Build 3 + Patch + Serial/4. Serial IDM.txt",
+		"/C/Program Files/PuTTY/README.txt",
+		"/D/projects/archiveuna/view/pages/partials/sidenav.php",
+		"/D/projects/archiveuna/index.php",
+		"/D/projects/archiveuna/model/selection.php",
+		"/D/projects/archiveuna/view/css/matiere.css",
+		"/D/projects/archiveuna/view/js/matieres.js",
+		"/D/projects/archiveuna/view/js/jquery.js",
+		"/D/projects/archiveuna/view/js/sidebar.js",
+		"/D/projects/archiveuna/view/css/staylenavbar.css",
+		"/G/said/archiveuna.sql",
+		"/E/work/rapport & presentation/pfe/backuprapport.tex",
+		"/D/projects/test/test.php",
+		"/E/work/rapport & presentation/pfe/imgs/draft/statistiques/statistique",
+		"/C/Users/Med Said M'bareck/Desktop/test.php",
+		"/C/Users/Med Said M'bareck/Desktop/test.html",
+		"/C/Users/Med Said M'bareck/Desktop/presentation.txt",
+		"/D/projects/pfe.v1/controler/admin.php",
+		"/D/projects/pfe.v1/controler/adminFunctions.php",
+		"/D/projects/pfe.v1/controler/allServerManager.php",
+		"/D/projects/pfe.v1/controler/main.php",
+		"/D/projects/pfe.v1/model/connection.php",
+		"/D/projects/pfe.v1/model/insertion.php",
+		"/D/projects/pfe.v1/view/css/forms.css",
+		"/D/projects/pfe.v1/view/css/update.css",
+		"/D/projects/pfe.v1/view/js/admin.js",
+		"/D/projects/pfe.v1/view/js/helper.js",
+		"/D/projects/pfe.v1/view/js/search.js",
+		"/E/work/rapport & presentation/pfe/presentation/presentation/presentation.tex",
+		"/E/work/rapport & presentation/pfe/presentation/Gestion_de_Serveurs.tex",
+		"/G/Rapport/new code latex.txt",
+		"/G/conception",
+		"/E/work/rapport & presentation/learn.tex",
+		"/E/work/rapport & presentation/pfe/rapport/plan/plan.tex",
+		"/E/work/rapport & presentation/pfe/draf/from vatimetou/rapport.txt",
+		"/E/work/rapport & presentation/pfe/draf/chapter.tex",
+		"/E/work/rapport & presentation/pfe/rapport/rapport.txt",
+		"/E/work/rapport & presentation/pfe/backup.tex",
+		"/E/download/zip & tar/tov-obt-2012-slides-src/tov-obt-2012-slides-src/slides.tex",
+		"/C/Users/Med Said M'bareck/Desktop/tset.html",
+		"/C/Users/Med Said M'bareck/Desktop/ServerManager.synctex",
+		"/E/work/rapport & presentation/pfe/ServerManager.toc",
+		"/C/Users/Med Said M'bareck/Desktop/navigator.html",
+		"/D/projects/pfe/resources/views/layouts/partials/forms.blade.php",
+		"/D/projects/pfe/resources/views/layouts/partials/userForm.blade.php",
+		"/C/Users/Med Said M'bareck/Desktop/forms.html",
+		"/D/projects/pfe/public/js/helper.js",
+		"/D/projects/pfe/vendor/symfony/css-selector/Parser/Handler/CommentHandler.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "reservationHotel.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"he",
+				"WebContent\\pages\\partials\\header.jsp"
+			],
+			[
+				"ajax",
+				"resources\\views\\layouts\\partials\\ajax.blade.php"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"j",
+				"view\\js\\jquery.js"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"userF",
+				"resources\\views\\layouts\\partials\\userForm.blade.php"
+			],
+			[
+				"forms",
+				"resources\\views\\layouts\\partials\\forms.blade.php"
+			],
+			[
+				"homeHand",
+				"vendor\\symfony\\css-selector\\Parser\\Handler\\CommentHandler.php"
+			],
+			[
+				"crudIco",
+				"resources\\views\\layouts\\partials\\crudIcons.blade.php"
+			],
+			[
+				"icon",
+				"public\\css\\admin\\icons.css"
+			],
+			[
+				"mode.b",
+				"resources\\views\\layouts\\partials\\mode.blade.php"
+			],
+			[
+				"form.css",
+				"public\\css\\forms.css"
+			],
+			[
+				"forms.bl",
+				"resources\\views\\layouts\\partials\\forms.blade.php"
+			],
+			[
+				"routes/channels",
+				"routes\\channels.php"
+			],
+			[
+				"helper",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\helpers.php"
+			],
+			[
+				"Illuminate\\Foundation\\helpers",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\helpers.php"
+			],
+			[
+				"Kernel.php",
+				"app\\Console\\Kernel.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 185.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
