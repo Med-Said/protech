@@ -1,14 +1,14 @@
-package com.example.grh;
+package com.example.tp2sp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GrhApplication {
+public class Tp2spApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GrhApplication.class, args);
-                
+		SpringApplication.run(Tp2spApplication.class, args);
 	}
+
 }
 

@@ -15,7 +15,21 @@ public class Tp1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+
+        System.out.println(pgcd(1755 ,1053));
     }
-    
+
+
+
+
+    public  static int pgcd(int a, int b){
+        while(a!=b){
+            if (a>b)
+            a = a-b;
+        else 
+            b = b-a;
+        }
+        
+        return a;
+    } 
 }

@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Tp1",
+            "request": "launch",
+            "mainClass": "tp1.Tp1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GrhApplication",
+            "request": "launch",
+            "mainClass": "com.example.grh.GrhApplication",
+            "projectName": "grh"
+        }
+    ]
+}
